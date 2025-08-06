@@ -1,6 +1,7 @@
 
  ![b1](https://github.com/user-attachments/assets/afd25d7c-29cc-449b-bbd3-ef530e9f8c62)
 ![b2](https://github.com/user-attachments/assets/a95136ce-4253-4a34-9e46-e13f12b1cdac)
+![seminar](https://github.com/user-attachments/assets/13ac9ec4-cbf8-49d9-94e6-63e994589cf1)
 
  
  ===============
