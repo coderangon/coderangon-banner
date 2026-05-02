@@ -1,7 +1,7 @@
 
 
 
-<img width="1376" height="768" alt="b5" src="https://github.com/user-attachments/assets/1a1bc55f-22b8-4d8b-8f9a-634306924c19" />
+ <img width="344" height="192" alt="b05" src="https://github.com/user-attachments/assets/9ad1aab7-0e41-40b1-b658-a6ccfb0a3637" />
 
 ![flutter](https://github.com/user-attachments/assets/68995f60-8621-476b-b999-b144cd071a5a)
 
